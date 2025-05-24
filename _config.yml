@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Gaoyuan Wu / About Me"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Gaoyuan Wu"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Fuzhou, China"
-  employer         : "Red Brick University"
+  pronouns         : # example: "he/his"  
+  bio              : "Master student in NTU"
+  location         : "Singapore"
+  employer         : "Nanyang Technological University - NTU"
   uri              : # URL
-  email            : "gaoyuan.wu.ac@gmail.com" 
+  email            : "gaoyuan001@e.ntu.edu.sg" 
 
   # Academic websites
   academia         : # URL
